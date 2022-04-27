@@ -31,7 +31,8 @@
   </ul>
 
    <h2>🗂 Para esta pagina usaremos la siguiente base de datos:</h2>
-      CREATE DATABASE cartelera;
+```
+CREATE DATABASE cartelera;
 
 DROP TABLE IF EXISTS peliculas;
 DROP TABLE IF EXISTS usuarios;
