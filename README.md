@@ -1,6 +1,6 @@
 
 <h1>💻 Proyecto Cartelera Cine   |  En progreso 🛠 </h1>
-  <h2>Pagina Web Cartelera Cine/h2>
+  <h2>Pagina Web Cartelera Cine</h2>
    <h2>⌨ Esta pagina contiene codigo:</h2>
       <ul>
   <li>HTML</li>
